@@ -1,3 +1,3 @@
-module github.com/befalen/is105sem03/mycrypt
+module github.co/Befalen/is105sem03/mycrypt
 
 go 1.20
