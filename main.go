@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/befalen/is105sem03/mycrypt"
+	"github.com/Befalen/is105sem03/mycrypt"
 )
 
 func main() {
